@@ -8,7 +8,7 @@ El proyecto es de la página CodeWell, donde se proporcionan las vistas en disti
 [LinkedIn](http://www.linkedin.com/in/carlosjmpro)
 
 ## Ver ejemplo en vivo
-[GitHub Pages]()
+[GitHub Pages](https://carlosjimer.github.io/Commune-landing-page/)
 
 ## Contacto
 [email](carlosjmpro@gmail.com)
