@@ -15,6 +15,10 @@ body{
 	justify-content: space-between;
 	padding: 3em 1em 2em 1em;
 }
+.header__div{
+	padding: .5em;
+	border: 1px solid #EEEEEE;
+}
 .header__img{
 	width: 8em;
 }
@@ -139,6 +143,10 @@ body{
 @media screen and (min-width:1024px){
 	.header{
 		margin-bottom: 2.5em;
+	}
+	.header__div:hover{
+	border: 1px solid #47006F;
+	border-radius: .5em;
 	}
 	.header__img{
 		width: 7em;
