@@ -27,7 +27,7 @@ body{
 }
 .header__li a{
 	text-decoration: none;
-	color: #47006F;
+	color: black;
 }
 .header__button{
 	display: none;
