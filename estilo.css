@@ -25,6 +25,10 @@ body{
 .header__nav{
 	display: none;
 }
+.header__li a{
+	text-decoration: none;
+	color: #47006F;
+}
 .header__button{
 	display: none;
 }
@@ -164,6 +168,9 @@ body{
 		list-style: none;
 		padding: 0 1em;
 		font-size: .8em;
+	}
+	.header__li:hover{
+		border-bottom: 1px solid #47006F;
 	}
 	.header__button{
 		display: flex;
